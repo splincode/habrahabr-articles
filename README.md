@@ -4,7 +4,18 @@
 
 <h4>Клиентская часть (фронтенд)</h4>
 <img src="https://hsto.org/files/5ad/d35/6fe/5add356fe9fe4db6a3d5e8eff84dff59.png" align="left" border="2"/>
-<b>Frontend Guidelines</b> - правила и руководства оформления, форматирования HTML, СSS и JavaScript кода. Его цель — повысить качество кода и облегчить совместную работу и поддержку инфраструктуры.  Бенджамин Де Кук (Benjamin De Cock), разработчик из Бельгии, собрал некоторые указания по оформлению кода, которые позиционируют себя как лучшие практики по написанию HTML, CSS, JS. <br> <br> <a class="github-button" href="https://habrahabr.ru/post/275729/">Подробнее</a> <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script> <br> <br> 
+<b>Frontend Guidelines</b> - правила и руководства оформления, форматирования HTML, СSS и JavaScript кода. Его цель — повысить качество кода и облегчить совместную работу и поддержку инфраструктуры.  Бенджамин Де Кук (Benjamin De Cock), разработчик из Бельгии, собрал некоторые указания по оформлению кода, которые позиционируют себя как лучшие практики по написанию HTML, CSS, JS. <br> <br> 
+
+<a class="github-button"
+   data-icon="octicon octicon-diff-renamed"
+   data-count-href="{{ count_link }}"
+   data-count-api="{{ count_api }}"
+   data-count-aria-label="{{ count_aria_label }}"
+   data-style="{{ style }}"
+   data-text="{{ button_text }}"
+   aria-label="{{ button_aria_label }}"
+href="https://habrahabr.ru/post/275729/">Подробнее</a> 
+<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script> <br> <br> 
 
 <br><br>
 <h4>Серверная часть (бэкенд)</h4>
