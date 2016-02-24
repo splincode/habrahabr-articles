@@ -6,7 +6,7 @@
 <img src="https://hsto.org/files/5ad/d35/6fe/5add356fe9fe4db6a3d5e8eff84dff59.png" align="left" border="2"/>
 <b>Frontend Guidelines</b> - правила и руководства оформления, форматирования HTML, СSS и JavaScript кода. Его цель — повысить качество кода и облегчить совместную работу и поддержку инфраструктуры.  Бенджамин Де Кук (Benjamin De Cock), разработчик из Бельгии, собрал некоторые указания по оформлению кода, которые позиционируют себя как лучшие практики по написанию HTML, CSS, JS. <br> <br> 
 
-<img src="https://habrastorage.org/files/fbc/1fe/459/fbc1fe45972b4929aa42aaefbd2a413a.png" align="left" />
+<img src="https://habrastorage.org/files/329/5aa/23d/3295aa23da8b43b5906775c10f8580ab.png" align="left" />
 <a href="https://habrahabr.ru/post/275729/">Подробнее</a> <br> <br> 
 
 <br><br>
