@@ -45,3 +45,16 @@
 <img src="https://habrastorage.org/files/329/5aa/23d/3295aa23da8b43b5906775c10f8580ab.png" align="left" />
 <a href="https://habrahabr.ru/post/273259/">Подробнее</a> <br> <br>
 <hr>
+
+<h3>Публикации на github</h3>
+<hr>
+<br>
+<h4>Git</h4>
+<br>
+<img src="https://git-for-windows.github.io/img/git_logo.png" align="left" border="2"/>
+<b>Git</b> - распределённая система управления версиями. Проект был создан Линусом Торвальдсом для управления разработкой ядра Linux, первая версия выпущена 7 апреля 2005 года. На сегодняшний день его поддерживает Джунио Хамано. Git поддерживает быстрое разделение и слияние версий, включает инструменты для визуализации и навигации по нелинейной истории разработки. Как и Darcs, BitKeeper, Mercurial, Bazaar и Monotone, Git предоставляет каждому разработчику локальную копию всей истории разработки, изменения копируются из одного репозитория в другой.
+<br>  <br> 
+
+<img src="https://habrastorage.org/files/329/5aa/23d/3295aa23da8b43b5906775c10f8580ab.png" align="left" />
+<a href="https://habrahabr.ru/post/273259/">Подробнее</a> <br> <br>
+<hr>
