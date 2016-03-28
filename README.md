@@ -4,16 +4,16 @@
 
 <h4>Клиентская часть (фронтенд)</h4><br> 
 
-<img src="https://hsto.org/getpro/habr/post_images/0c3/ea6/c16/0c3ea6c16b9746304dba6e6daca1673f.png" align="left" border="2" width="40%" />
+<img src="https://hsto.org/getpro/habr/post_images/0c3/ea6/c16/0c3ea6c16b9746304dba6e6daca1673f.png" align="left" border="2" width="30%" />
 <b>WebFonts</b> - это технология использования сторонних шрифтов на своей веб-странице. Если начинать с истоков, тег font был введен в 1995 году, а уже в 1996-м было написано программное определение на CSS. Начиная с версии CSS 2.0 была введена загрузка и синтез шрифта в браузерах, но тем не менее тогда еще популярный, а ныне старый и неактуальный IE не имел поддержки загрузки шрифтов, что мешало бурному развитию использования шрифтов на своем сайте.<br> <br>
 
-<img src="https://habrastorage.org/files/329/5aa/23d/3295aa23da8b43b5906775c10f8580ab.png" align="left"  width="40%" />
+<img src="https://habrastorage.org/files/329/5aa/23d/3295aa23da8b43b5906775c10f8580ab.png" align="left"/>
 <a href="https://habrahabr.ru/post/258731/">Подробнее</a> <br> <br><br>
 
 <hr>
 <br>
 
-<img src="https://hsto.org/files/5ad/d35/6fe/5add356fe9fe4db6a3d5e8eff84dff59.png" align="left" border="2" width="40%"/>
+<img src="https://hsto.org/files/5ad/d35/6fe/5add356fe9fe4db6a3d5e8eff84dff59.png" align="left" border="2" width="30%"/>
 <b>Frontend Guidelines</b> - правила и руководства оформления, форматирования HTML, СSS и JavaScript кода. Его цель — повысить качество кода и облегчить совместную работу и поддержку инфраструктуры.  Бенджамин Де Кук (Benjamin De Cock), разработчик из Бельгии, собрал некоторые указания по оформлению кода, которые позиционируют себя как лучшие практики по написанию HTML, CSS, JS.  В общем и целом, все зависит от вашего опыта и виденья дела.. <br> <br>
 
 <img src="https://habrastorage.org/files/329/5aa/23d/3295aa23da8b43b5906775c10f8580ab.png" align="left" />
