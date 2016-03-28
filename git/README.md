@@ -5,8 +5,6 @@
 
 <br><br>
 
-<h4>Пример:</h4>
-
 <h4>Установка</h4>
 Под <a href="https://git-scm.com/download/win">Windows</a> или под Linux:
 ```bash
@@ -48,3 +46,5 @@ git add . #производится индексирование файлов н
 git commit -m "update" #фиксируем публикацию, комментируем изменения
 git push -f #отправляем на сервер GitHub
 ```
+
+<h4>Пример:</h4>
