@@ -44,7 +44,7 @@
 
 <img src="https://habrastorage.org/files/329/5aa/23d/3295aa23da8b43b5906775c10f8580ab.png" align="left" />
 <a href="https://habrahabr.ru/post/273259/">Подробнее</a> <br> <br>
-<hr>
+<hr> <br><br>
 
 <h3>Публикации на github</h3>
 <hr>
