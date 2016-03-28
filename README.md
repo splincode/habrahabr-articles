@@ -1,6 +1,6 @@
-<h3>Публикации на сайте хабрахабр</h3>
+<h3>Публикации</h3>
 <hr>
-<a href="https://habrahabr.ru/users/splincodewd/">Посмотреть профиль</a>
+<a href="https://habrahabr.ru/users/splincodewd/">Посмотреть профиль на хабрахабр</a>
 
 <h4>Клиентская часть (фронтенд)</h4><br> 
 
@@ -44,9 +44,8 @@
 
 <img src="https://habrastorage.org/files/329/5aa/23d/3295aa23da8b43b5906775c10f8580ab.png" align="left" />
 <a href="https://habrahabr.ru/post/273259/">Подробнее</a> <br> <br>
-<hr> <br><br>
 
-<h3>Публикации на github</h3>
+
 <hr>
 <br>
 <img src="http://media.w3guy.com/wp-content/uploads/2015/02/git.jpg" align="left" border="2"/>
