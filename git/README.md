@@ -31,8 +31,8 @@ git config --global core.eol lf
 
 ```bash
 mkdir C:/develop/ #cоздаем папку на диске C (если Windows)
-git clone https://github.com/user/titlerepository # копируем свой репозиторий на компьютер
-cd titlerepository/ #заходим в локальный репозиторий
+git clone https://github.com/user/title-repository # копируем свой репозиторий на компьютер
+cd title-repository/ #заходим в локальный репозиторий
 ```
 
 <h4>3 шаг: обновляем изменения на гитхабе</h4>
