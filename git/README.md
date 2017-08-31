@@ -7,12 +7,14 @@
 
 <h4>Установка</h4>
 Под <a href="https://git-scm.com/download/win">Windows</a> или под Linux:
+
 ```bash
 sudo apt-get update
 sudo apt-get install git
 ```
 
 <h4>1 шаг: открываем терминал и устанавливаем первоначальные конфигурации</h4>
+
 ```bash
 git config --global user.name 'имя_пользователя_github'
 git config --global user.email 'ваша_электронная_почта'
@@ -26,6 +28,7 @@ git config --global core.eol lf
 ```
 
 <h4>2 шаг: клонируем репозиторий</h4>
+
 ```bash
 mkdir C:/develop/ #cоздаем папку на диске C (если Windows)
 git clone https://github.com/user/titlerepository # копируем свой репозиторий на компьютер
@@ -33,6 +36,7 @@ cd titlerepository/ #заходим в локальный репозиторий
 ```
 
 <h4>3 шаг: обновляем изменения на гитхабе</h4>
+
 ```bash
 # производим изменения
 # git отслеживает только изменения в файлах
