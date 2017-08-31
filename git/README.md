@@ -50,6 +50,3 @@ git add . #производится индексирование файлов н
 git commit -m "update" #фиксируем публикацию, комментируем изменения
 git push -f #отправляем на сервер GitHub
 ```
-
-<h4>Пример:</h4>
-<img src="https://habrastorage.org/files/0a1/7ab/89f/0a17ab89f9f44893bff13b326525fe6c.gif"/>
